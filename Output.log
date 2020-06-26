@@ -1,0 +1,60 @@
+Mar 07, 2020 10:39:59 AM org.apache.tomcat.util.digester.SetPropertiesRule begin
+WARNING: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:DateApplicationDemo' did not find a matching property.
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/9.0.0.M13
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 3 2016 20:59:41 UTC
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         9.0.0.0
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_121-b13
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         F:\JEE\Servlet0\Application\ServletApp_Nat\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         H:\Tomcat 9.0
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=F:\JEE\Servlet0\Application\ServletApp_Nat\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=H:\Tomcat 9.0
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dwtp.deploy=F:\JEE\Servlet0\Application\ServletApp_Nat\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=H:\Tomcat 9.0\endorsed
+Mar 07, 2020 10:39:59 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=Cp1252
+Mar 07, 2020 10:39:59 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/lib/amd64;H:\2-sofware\Other\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_121\bin;H:\2-sofware\FramewprkSoft\spring-boot-cli-2.1.8.RELEASE-bin\spring-2.1.8.RELEASE\bin;C:\app\ankit.kashyap2p\product\12.1.0\dbhome_1\BIN\ocijdbc11.dll;C:\Program Files (x86)\Java\jdk1.7.0_01\bin;H:\2-sofware\DB soft\InstantClient\instantclient-basic\instantclient_19_5;F:\JSE\JDBC0\JDBC\Path&Classpath;C:\app\ankit.kashyap2p\product\12.1.0\dbhome_1\BIN\ocijdbc11.dll ;H:\2-sofware\JavaIDEs\eclipse-jee-oxygen-2-win32-x86_64\eclipse;;.
+Mar 07, 2020 10:40:00 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-5050"]
+Mar 07, 2020 10:40:00 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+Mar 07, 2020 10:40:00 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-8009"]
+Mar 07, 2020 10:40:00 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+Mar 07, 2020 10:40:00 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3764 ms
+Mar 07, 2020 10:40:00 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mar 07, 2020 10:40:00 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/9.0.0.M13
+Mar 07, 2020 10:40:09 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 07, 2020 10:40:15 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 07, 2020 10:40:15 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler [http-nio-5050]
+Mar 07, 2020 10:40:15 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler [ajp-nio-8009]
+Mar 07, 2020 10:40:15 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 14437 ms
